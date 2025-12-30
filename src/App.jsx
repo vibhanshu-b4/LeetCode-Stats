@@ -426,7 +426,7 @@ export default function App() {
         <hr className="my-4 sm:my-6 border-gray-600" />
         <p className="flex flex-col items-center gap-2">
           <a
-            href="https://github.com/"
+            href="https://github.com/vibhanshu-b4/LeetCode-Stats"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center text-indigo-400 hover:underline gap-2"
@@ -448,7 +448,7 @@ export default function App() {
           <span>
             Want to help?{" "}
             <a
-              href="https://github.com/"
+              href="https://github.com/vibhanshu-b4/LeetCode-Stats"
               target="_blank"
               rel="noopener noreferrer"
               className="text-indigo-400 hover:underline"
